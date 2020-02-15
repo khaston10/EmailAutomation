@@ -1,7 +1,7 @@
 import smtplib
 
 # Set email account and password
-emailAccount = 'kevohaston@gmail.com'
+emailAccount = 'microfarads@gmail.com '
 password = 'Soapsoap10'
 message = 'Hi Kyle, it is me... your server.\nHope you are have a great day!\n' \
           'I am working my butt off down here.'
